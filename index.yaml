@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-nginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-18T15:01:30.422717555+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f05bcb2c2c399a309d3d11d7ce3418fdb2da13922617d28044f8e5d05491fc5d
+    name: my-nginx
+    type: application
+    urls:
+    - https://ReumaAkhtar.github.io/helm-charts/my-nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-18T15:01:30.421918082+05:30"
